@@ -1,0 +1,5 @@
+Change Log - 2.4.9 (19 July 2022)
+----------------------------------
+* GMap Data extractor- Data repetitive issue fixed 
+* Auto Bot Message not sending issue fixed
+* Performance Improvement

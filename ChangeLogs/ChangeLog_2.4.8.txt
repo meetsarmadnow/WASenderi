@@ -1,0 +1,5 @@
+Change Log - 2.4.8 (29 June 2022)
+----------------------------------
+* GMap Data extractor- Mobile and website not grabbing issue fixed
+* Showing error after initializing issue fixed
+* Bug Fixes and performance improvements
